@@ -1,0 +1,36 @@
+{
+	"minhasordens":[
+	{
+	 	"transactionDate": "2020-02-03",
+	 	"weekDay": "Segunda",
+	 	"description": "Tesouro Selic 2025",
+	 	"type": "R",
+	 	"value": 10060.25,
+	 	"status": "Realizada"
+	},
+	{
+	 	"transactionDate": "2020-02-03",
+	 	"weekDay": "Segunda",
+	 	"description": "Tesouro IPCA+ com Juros Semestrais 2050",
+	 	"type": "A",
+	 	"value": 3958.73,
+	 	"status": "Solicitada"
+	},
+	{
+	 	"transactionDate": "2020-04-29",
+	 	"weekDay": "Quarta",
+	 	"description": "NIBSPE",
+	 	"type": "R",
+	 	"value": 500.00,
+	 	"status": "Realizada"
+	}
+	,{
+	 	"transactionDate": "2020-05-05",
+	 	"weekDay": "Terça",
+	 	"description": "Fundo BNP",
+	 	"type": "R",
+	 	"value": 15000.00,
+	 	"status": "Cancelada"
+	}
+	]
+}
