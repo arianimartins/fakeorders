@@ -3,7 +3,7 @@
 	{
 	 	"transactionDate": "2020-02-03",
 	 	"weekDay": "Segunda",
-	 	"description": "Tesouro Selic 2025",
+	 	"description": "Tesouro Selic",
 	 	"type": "Resgate",
 	 	"value": 10060.25,
 	 	"status": "Realizada"
