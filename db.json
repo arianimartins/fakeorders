@@ -1,23 +1,31 @@
 {
 	"minhasordens":[
 	{
-	 	"transactionDate": "2020-02-03",
+	 	"transactionDate": "2020-01-01",
 	 	"weekDay": "Segunda",
-	 	"description": "Tesouro Selic",
+	 	"description": "Tesouro Selic 1",
 	 	"type": "Resgate",
 	 	"value": 10060.25,
-	 	"status": "Realizada"
+	 	"status": "Agendada"
 	},
 	{
-	 	"transactionDate": "2020-02-03",
+	 	"transactionDate": "2020-01-01",
 	 	"weekDay": "Segunda",
+	 	"description": "Tesouro Selic 2",
+	 	"type": "Resgate",
+	 	"value": 10060.25,
+	 	"status": "Agendada"
+	},
+	{
+	 	"transactionDate": "2020-01-02",
+	 	"weekDay": "Terça",
 	 	"description": "Tesouro IPCA+ com Juros Semestrais 2050",
 	 	"type": "Aplicacao",
 	 	"value": 3958.73,
-	 	"status": "Solicitada"
+	 	"status": "Agendada"
 	},
 	{
-	 	"transactionDate": "2020-04-29",
+	 	"transactionDate": "2020-02-01",
 	 	"weekDay": "Quarta",
 	 	"description": "NIBSPE",
 	 	"type": "Aplicacao",
@@ -25,36 +33,36 @@
 	 	"status": "Realizada"
 	}
 	,{
-	 	"transactionDate": "2020-05-05",
+	 	"transactionDate": "2020-02-01",
 	 	"weekDay": "Terça",
-	 	"description": "Fundo BNP",
+	 	"description": "Fundo BNP 0",
 	 	"type": "Resgate",
 	 	"value": 15000.00,
 	 	"status": "Cancelada"
 	},
 	{
-	 	"transactionDate": "2020-05-05",
+	 	"transactionDate": "2020-02-02",
 	 	"weekDay": "Terça",
-	 	"description": "Fundo BNP",
-	 	"type": "Resgate",
-	 	"value": 15000.00,
+	 	"description": "Fundo BNP 1",
+	 	"type": "Aplicacao",
+	 	"value": 15600.00,
 	 	"status": "Cancelada"
 	},
 	{
-	 	"transactionDate": "2020-05-05",
+	 	"transactionDate": "2020-02-03",
 	 	"weekDay": "Terça",
-	 	"description": "Fundo BNP",
-	 	"type": "Resgate",
-	 	"value": 15000.00,
-	 	"status": "Agendada"
+	 	"description": "Fundo BNP 2",
+	 	"type": "Aplicacao",
+	 	"value": 14000.00,
+	 	"status": "Realizada"
 	},
 	{
-	 	"transactionDate": "2020-05-05",
+	 	"transactionDate": "2020-02-03",
 	 	"weekDay": "Terça",
-	 	"description": "Fundo BNP",
+	 	"description": "Fundo BNP 3",
 	 	"type": "Resgate",
 	 	"value": 15000.00,
-	 	"status": "Agendada"
+	 	"status": "Realizada"
 	}
 	]
 }
