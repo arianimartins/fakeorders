@@ -31,6 +31,30 @@
 	 	"type": "Resgate",
 	 	"value": 15000.00,
 	 	"status": "Cancelada"
+	},
+	{
+	 	"transactionDate": "2020-05-05",
+	 	"weekDay": "Terça",
+	 	"description": "Fundo BNP",
+	 	"type": "Resgate",
+	 	"value": 15000.00,
+	 	"status": "Cancelada"
+	},
+	{
+	 	"transactionDate": "2020-05-05",
+	 	"weekDay": "Terça",
+	 	"description": "Fundo BNP",
+	 	"type": "Resgate",
+	 	"value": 15000.00,
+	 	"status": "Agendada"
+	},
+	{
+	 	"transactionDate": "2020-05-05",
+	 	"weekDay": "Terça",
+	 	"description": "Fundo BNP",
+	 	"type": "Resgate",
+	 	"value": 15000.00,
+	 	"status": "Agendada"
 	}
 	]
 }
