@@ -4,8 +4,8 @@
 	 	"transactionDate": "2020-01-01",
 	 	"weekDay": "Segunda",
 	 	"description": "Tesouro Selic 1",
-	 	"type": "Resgate",
-	 	"value": 10060.25,
+	 	"type": "Aplicacao",
+	 	"value": 100.25,
 	 	"status": "Agendada"
 	},
 	{
