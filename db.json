@@ -38,7 +38,7 @@
 	 	"description": "Fundo BNP 0",
 	 	"type": "Resgate",
 	 	"value": 15000.00,
-	 	"status": "Cancelada"
+	 	"status": "Solicitada"
 	},
 	{
 	 	"transactionDate": "2020-02-02",
